@@ -1,0 +1,6 @@
+Llanquihue Tour
+Pedro Martínez;Cultural;5
+Ana Silva;Aventura;8
+Carlos Pérez;Gastronómico;3
+María González;Lacustre;6
+Jorge Soto;Historia;10

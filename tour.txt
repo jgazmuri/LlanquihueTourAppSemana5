@@ -1,0 +1,5 @@
+Alta
+6
+Verano
+Volcan Osorno
+true
