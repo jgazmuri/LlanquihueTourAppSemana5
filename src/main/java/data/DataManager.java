@@ -25,7 +25,7 @@ public AdministradorGuias cargarGuia(){
         AdministradorGuias administradorGuias = null;
         try(BufferedReader reader = new BufferedReader(new FileReader(DATA_FILE))){
     String primeraLinea = reader.readLine();
-    if(primeraLinea!=null){
+    if(primeraLinea !=null){
         administradorGuias = new AdministradorGuias(primeraLinea);
         String linea;
         while((linea = reader.readLine())!=null){
